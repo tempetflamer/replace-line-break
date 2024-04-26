@@ -1,0 +1,29 @@
+{
+  "name": "replace-line-break",
+  "version": "0.1.0",
+  "description": "Replace line break with \\n or others",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tempetflamer/replace-line-break.git"
+  },
+  "keywords": [
+    "line-break",
+    "line break",
+    "replace",
+    "\\n"
+  ],
+  "author": "https://github.com/tempetflamer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tempetflamer/replace-line-break/issues"
+  },
+  "homepage": "https://github.com/tempetflamer/replace-line-break#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
